@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "928889490",
+    "hash" : "0",
     "id" : "DABA6133",
-    "lastKnownWriteTime" : 1525174398,
-    "last_content_update" : 1525174398282,
+    "lastKnownWriteTime" : 1525175426,
+    "last_content_update" : 1525175426542,
     "path" : "C:/Users/Marie Köditz/rtest/test.R",
     "project_path" : "test.R",
     "properties" : {
-        "cursorPosition" : "3,9",
+        "cursorPosition" : "5,7",
         "scrollLine" : "0"
     },
     "relative_order" : 1,
