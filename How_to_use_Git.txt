@@ -9,3 +9,10 @@ Schritte:
 3. Änderungen anzeigen lassen mit dem Command git diff
 4. Änderungen lokal speichern mit git commit -m "test changes" -a
 5. Änderungen in Master speichern mit git push origin master
+
+
+git add -A nutzen um untracked files in das repo mit aufzunehmen
+git pull nutzen um das repo zu aktualisieren
+
+
+git clone https://github.com/MarieKoe/rtest.git nutzen um eine lokale Clone herzustellen
