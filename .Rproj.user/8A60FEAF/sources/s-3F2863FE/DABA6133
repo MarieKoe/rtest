@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525172906986.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "928889490",
+    "id" : "DABA6133",
+    "lastKnownWriteTime" : 1525174398,
+    "last_content_update" : 1525174398282,
+    "path" : "C:/Users/Marie Köditz/rtest/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "cursorPosition" : "3,9",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

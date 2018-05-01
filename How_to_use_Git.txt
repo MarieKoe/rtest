@@ -1,0 +1,11 @@
+
+----------------------------------
+---	How to use GitHub 		------
+----------------------------------
+
+Schritte:
+1. Git Bash öffnen
+2. Mit dem Befehl cd in den Ordner rtest navigieren
+3. Änderungen anzeigen lassen mit dem Command git diff
+4. Änderungen lokal speichern mit git commit -m "test changes" -a
+5. Änderungen in Master speichern mit git push origin master
